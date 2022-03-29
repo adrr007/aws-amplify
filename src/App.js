@@ -9,11 +9,11 @@ function App() {
         <h1> Cloud Computing Lab Mini Project</h1>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://aws.amazon.com/amplify/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learnt from Amplify
         </a>
       </header>
     </div>
